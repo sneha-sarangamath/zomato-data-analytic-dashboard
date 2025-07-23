@@ -39,4 +39,4 @@ This project showcases an interactive Power BI dashboard created using Zomato re
 - Gained insights into user preferences across countries
 
   Screenshot:
-  Link:
+  Link:https://github.com/sneha-sarangamath/zomato-data-analytic-dashboard/blob/main/zomato%20dasboard%20screenshot.png
